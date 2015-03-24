@@ -1,4 +1,9 @@
 tri-tones
 =========
 
-RF usrp for joint 433-868-1200 MHz ISM band, zynQ inside !
+Apprendre gnu radio dans le style d'ouverture facile.
+
+Première étape :
+Dans le répertoire p1, écouter le message audio. Ajouter un block Instrumentation/QT/Frequency sink pour reprérer la fréquence. Puis démoduler en cherchant d'autres blocks colonne de droite (control+F marche !)
+
+Enjoy !

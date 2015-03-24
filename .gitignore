@@ -1,0 +1,12 @@
+*.DS_Store
+*.pyc
+*.o
+$.obj
+*~
+*#
+_region_*
+*.aux
+*.log
+*.ipynb_checkpoints
+*top_block.py
+off_record
